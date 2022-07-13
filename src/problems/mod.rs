@@ -1,0 +1,17 @@
+pub mod apple_division;
+pub mod bit_strings;
+pub mod coin_piles;
+pub mod creating_strings;
+pub mod digit_queries;
+pub mod increasing_array;
+pub mod gray_code;
+pub mod missing_number;
+pub mod number_spiral;
+pub mod palindrome_reoder;
+pub mod permutations;
+pub mod repetitions;
+pub mod tower_of_hanoi;
+pub mod trailing_zeros;
+pub mod two_knights;
+pub mod two_sets;
+pub mod weird_algorithm;
